@@ -1,1 +1,1 @@
-# NLP-Projects This is my first NLP project, I've tried to perform sentiment analysis on tweets that mention 'gabapentinoids', 'gabapentin', 'neurontin', 'pregabalin' and 'gralise' to see what people think about these drugs. I have used TextBlob, VADER and Flair libraries.
+This is my first NLP project, I've tried to perform sentiment analysis on tweets that mention 'gabapentinoids', 'gabapentin', 'neurontin', 'pregabalin' and 'gralise' to see what people think about these drugs. I have used TextBlob, VADER and Flair libraries.
